@@ -1,2 +1,2 @@
-# sumac
-Specification for a protocol that facilitates communication between computers.
+# Sumac
+Sumac is a language agnostic protocol that facilitates object based communication between any two computer programs.
