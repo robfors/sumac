@@ -1,4 +1,4 @@
-# Sumac
+# Sumac Protocol Specification [Work In Progress]
 *Sumac* is a language agnostic protocol that facilitates object based communication between any two computer programs.
 
 ## Implementations
